@@ -14,13 +14,21 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #59daa4;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  color: white;
+  padding-bottom: 1%;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 30px;
   color: white;
 }
 
@@ -35,4 +43,50 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.LeftCity {
+  float: left;
+  background-color: #3b4742;
+  width: 50%;
+}
+
+.RightCity {
+  float: right;
+  background-color: #073824;
+  width: 50%;
+}
+
+.Body{
+  display: flex;
+}
+
+.cityGet{
+  width: 50%;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  float: center;
+}
+
+.buttonCityGet{
+  width: 10%;
+  margin: 10px 10px 10px 10px;
+  float: center;
+}
+
+#displayCity{
+  margin: 20px 20px 20px 20px;
+  width: 80%;
+  color:#61dafb;
+}
+
+.map-container{
+  height: 50vh;
+  width: 50%;
+  margin: auto;
+}
+
+.map{
+  text-align: center;
+  margin-bottom: 30px;
 }
