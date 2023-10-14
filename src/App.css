@@ -21,7 +21,7 @@
 }
 
 .Footer {
-  background-color: #59daa4;
+  background-color: #59daa4; 
   min-height: 5vh;
   display: flex;
   flex-direction: column;
