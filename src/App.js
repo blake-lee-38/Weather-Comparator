@@ -13,8 +13,8 @@ function App() {
       </div>
       <div className = "Footer">
         <p>Thank You for visiting!
-        You can access the source code on my <a href="https://github.com/blake-lee-38/Weather-Comparator" className="GitHub" target="_blank" rel="noreferrer">GitHub<img src="/github-mark.png" alt="Github Link" /> </a>
-        or connect with me on <a href="https://www.linkedin.com/in/blake--lee" className="LinkedIn" target="_blank" rel="noreferrer">LinkedIn<img src="/LI-In-Bug.png" alt="LinkedIn Link"></img></a></p>
+        You can access the source code on my <a href="https://github.com/blake-lee-38/Weather-Comparator" className="GitHub" target="_blank" rel="noreferrer">GitHub<img src="github-mark.png" alt="Github Link" /> </a>
+        or connect with me on <a href="https://www.linkedin.com/in/blake--lee" className="LinkedIn" target="_blank" rel="noreferrer">LinkedIn<img src="LI-In-Bug.png" alt="LinkedIn Link"></img></a></p>
       </div>
     </div>
   )
